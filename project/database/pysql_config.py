@@ -1,0 +1,9 @@
+# coding=utf-8
+DIALECT = 'mysql'
+DRIVER = 'pymysql'
+USERNAME = 'root'
+PASSWORD = 'formwork_password'
+HOST = '1.0.0.1'
+PORT = '3306'
+DATABASE = 'formwork_database'
+db=None
